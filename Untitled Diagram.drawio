@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T04:17:58.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="Q_x2S-l8sglL5ggGPO-_" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T04:20:15.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="GppR1Ldhbme2F66r29ge" version="20.2.7" type="github">
   <diagram id="pd1ivRm9AIwPCghPI3QW" name="Page-1">
     <mxGraphModel dx="702" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         <mxCell id="WaklKyGJsUg6T0_S9lMj-30" value="And then eat" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WaklKyGJsUg6T0_S9lMj-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WaklKyGJsUg6T0_S9lMj-32" target="WaklKyGJsUg6T0_S9lMj-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WaklKyGJsUg6T0_S9lMj-32" value="And come to school" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -72,6 +75,15 @@
         </mxCell>
         <mxCell id="WaklKyGJsUg6T0_S9lMj-34" value="Take a shower" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaklKyGJsUg6T0_S9lMj-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WaklKyGJsUg6T0_S9lMj-36" target="WaklKyGJsUg6T0_S9lMj-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="610" />
+              <mxPoint x="170" y="880" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WaklKyGJsUg6T0_S9lMj-36" value="BTS to school" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="580" width="120" height="60" as="geometry" />
@@ -103,6 +115,18 @@
         <mxCell id="WaklKyGJsUg6T0_S9lMj-47" value="Shower" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WaklKyGJsUg6T0_S9lMj-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WaklKyGJsUg6T0_S9lMj-49" target="WaklKyGJsUg6T0_S9lMj-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="900" />
+              <mxPoint x="570" y="900" />
+              <mxPoint x="570" y="990" />
+              <mxPoint x="630" y="990" />
+              <mxPoint x="630" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaklKyGJsUg6T0_S9lMj-49" value="Come to school" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="720" width="120" height="80" as="geometry" />
         </mxCell>
@@ -118,8 +142,14 @@
         <mxCell id="WaklKyGJsUg6T0_S9lMj-53" value="Shower" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="720" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WaklKyGJsUg6T0_S9lMj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WaklKyGJsUg6T0_S9lMj-55" target="WaklKyGJsUg6T0_S9lMj-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WaklKyGJsUg6T0_S9lMj-55" value="Come to school" style="triangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="880" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WaklKyGJsUg6T0_S9lMj-57" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
